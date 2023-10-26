@@ -22,7 +22,7 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		<dependency>
-			<!--- To avoid boiler plate code--->
+			<!--- To avoid boiler plate code It Generates Getter and Setters--->
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
